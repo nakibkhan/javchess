@@ -1,0 +1,26 @@
+com/nakgames/javchess/model/pieces/PieceInt.java
+ com.nakgames.javchess.model.pieces.PieceInt
+com/nakgames/javchess/status/Color.java
+ com.nakgames.javchess.status.Color
+com/nakgames/javchess/model/pieces/Knight.java
+ com.nakgames.javchess.model.pieces.Knight
+com/nakgames/javchess/status/Axis.java
+ com.nakgames.javchess.status.Axis
+com/nakgames/javchess/model/pieces/Rook.java
+ com.nakgames.javchess.model.pieces.Rook
+com/nakgames/javchess/status/BoardPosition.java
+ com.nakgames.javchess.status.BoardPosition
+com/nakgames/javchess/model/pieces/King.java
+ com.nakgames.javchess.model.pieces.King
+com/nakgames/javchess/model/pieces/Piece.java
+ com.nakgames.javchess.model.pieces.Piece
+com/nakgames/javchess/model/pieces/Bishop.java
+ com.nakgames.javchess.model.pieces.Bishop
+com/nakgames/javchess/model/pieces/Queen.java
+ com.nakgames.javchess.model.pieces.Queen
+com/nakgames/javchess/JavchessApplication.java
+ com.nakgames.javchess.JavchessApplication
+com/nakgames/javchess/model/pieces/Pawn.java
+ com.nakgames.javchess.model.pieces.Pawn
+com/nakgames/javchess/model/pieces/Board.java
+ com.nakgames.javchess.model.pieces.Board

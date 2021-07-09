@@ -2,8 +2,12 @@ package com.nakgames.javchess.model.pieces;
 
 import com.nakgames.javchess.status.Color;
 
-public class Pawn implements PieceInt {
+public class Pawn extends Piece implements PieceInt {
     private Color color;
+
+    public Pawn(Color color) {
+        super(color);
+    }
 
     @Override
     public boolean isLegalMove(int[][] position) {

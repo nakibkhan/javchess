@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JavchessApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(JavchessApplication.class, args);
 	}
 

@@ -1,0 +1,2 @@
+com/nakgames/javchess/JavchessApplicationTests.java
+ com.nakgames.javchess.JavchessApplicationTests
