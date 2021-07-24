@@ -3,6 +3,7 @@ package com.nakgames.javchess.model.pieces;
 import com.nakgames.javchess.status.Color;
 
 public class Knight extends Piece implements PieceInt {
+
     public Knight(Color color) {
         super(color);
     }

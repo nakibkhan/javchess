@@ -2,11 +2,10 @@ package com.nakgames.javchess.model.pieces;
 
 import com.nakgames.javchess.status.Color;
 
-public class Rook implements PieceInt {
+public class Rook extends Piece implements PieceInt {
 
-
-    public  Rook(Color color)   {
-
+    public Rook(Color color) {
+        super(color);
     }
 
     @Override

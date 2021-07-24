@@ -1,5 +1,6 @@
-package com.nakgames.javchess.model.pieces;
+package com.nakgames.javchess.model;
 
+import com.nakgames.javchess.model.pieces.*;
 import com.nakgames.javchess.status.BoardPosition;
 import com.nakgames.javchess.status.Color;
 
